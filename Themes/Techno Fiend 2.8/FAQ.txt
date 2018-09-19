@@ -1,0 +1,580 @@
+Stepmania 3.9: Techno Fiend Interface Version 2.8
+
+
+
+[Introduction]
+
+Designed for CVS Alpha 22-24 by Sestren Neveras. All graphics were created using Ulead PhotoImpact 8.
+
+WARNING: This readme contains language that is not suitable for younger audiences and minors and morons. Yes, even I care about the little ones.
+
+
+
+[Techno Fiend Disclaimer V1]
+
+Please note that I will not accept all requests because I have specific tastes and standards for what I want and don't want in my theme. Allow me to be the judge of what fits the theme and what doesn't, since I purposely tend to go for different styles at some points. Some areas look future-metallic, some don't. Some areas look detailed, some look simple. It's all intentional for variety purposes. Caution yourself that all requested changes due to "taste" whether it's personal or the theme WILL BE IGNORED unless the change can be used to enhance something for EVERYONE. If you have a request, make sure you give reason why you want it this way, and I will not give into requests that change the look of the theme if only one person wants it. The more people request it, the chances of that change increase. However, if people are against it, the chances of me reversing those changes double.
+
+The reason this theme was released was to share a theme that was created with my tastes. It was not created to destroy the competition and give other theme makers a hard time. Whether it's better or worse than another theme is merely opinion. No theme is perfect (yet) and this is no exception. While I do enjoy comments, I do not appreciate those that come at the expense of other theme makers, since most of them have taken a lot of time and effort to create their themes and it's only unfair to downtalk their themes. I am not a competitive person. I like my theme and I'm sure others will to. That is the only reason this theme is available.
+
+Techno Fiend was created to look sexy on lower-end computers and was made to work fast on them as well, but it can also be enjoyed on the higher-end machines as well. But there will be no version of TF exclusively for higher end machines, because I do not want fans to be left out. There is a chance the theme will be completed once Stepmania 4.0 is out, and I will move onto other themes. I will not accept requests for other themes whatsoever. I will not do official themes because I'm more of a creative artist rather than a copycat one. With non-bemani related themes, there is a 97% chance I don't like what you like.
+
+Do not use anything in this theme and claim it as your own. While the sound effects and music are not created by me, I had to edit them and that took hard work, so you should do it yourself, too. Do not use the graphics, animations, and the metrics file (although you can look through it to see how I've done things). The fonts may only be used with permission. If you copy elements such as the Caution screen text, I'll slam you for lack of originality. If you decide to go against this and steal my work, I will haunt you with copying my theme and your ass is grass, since no one likes a thief unless you've got a blue genie. If you are creating a theme and require help with it, please revert to the sticky called Theme Help/Questions first. If you require help by me alone, PM me, and I'll be glad to help. I don't bite, but if you intend to, I've got a 2x4 with your name on it. I just ask that you don't PM me first and then look for the aid of others. I appreciate people looking to me first, but sometimes I don't have the time and I believe you may get a quicker response by asking the board instead of me first.
+
+Please also note that when I say I update the theme, it is not released until I make an announcement (usually in bold). I usually release a new version of the theme to be compatible with a new alpha, and/or there have been huge significant changes to the theme. I will also not release "upgrade packs" to the theme unless there is a significant problem that only requires the replacement of a minimal amount of files. Normally new versions of my theme come with significant changes to the graphics and several of the BGAnimation metrics, so it's easier for me to just put everything in one load.
+
+Welcome to Techno Fiend.
+
+=End
+
+
+
+[Version History]
+
+Techno Fiend V.2.8
+- Select Character frames adjusted for new character cards.
+- Difficulty Meter Numbers added on Select Music.
+- SMLAN support added, NetSelectMusic screen modified to fit theme.
+- Unlock Screen returns, new music, background, and easter egg.
+- New background supports Instructions, NetSelectMusic, and Unlock.
+- Several graphics modifications.
+- Title Screen Confirmation pause eliminated.
+- Music Wheel Speed adjusted.
+- Updated FAQ
+
+Techno Fiend V.2.7
+- BEGINNER Mode and ENDLESS Mode have returned.
+- SELECT GAME is now available as the last option in the Options Menu.
+- The Select Difficulty Screen has been redone for the above changes.
+- The Caution Screen has been redone.
+- The Select Character Screen is the same as Caution.
+- The Danger Animation has been redone.
+- The Course Selection background has been redone.
+- The Edit Courses Menu has been redone.
+- Title Menu music changed.
+- Minor audio adjustments.
+- Instructions for Challenge Modes have all been changed.
+- Deleted more unnessessary files.
+- Modified all graphics to reduce file size heavily but maintain the same quality.
+- New detailed readme.
+- Even more easter eggs.
+
+Techno Fiend V.2.5
+- Judgment change: "Brilliant!!!" replaces "Tight!!!"
+- Judgment change: "Excellent!!" replaces "Sweet!!"
+- Player Options Bug Fix from V.2.4 found and fixed.
+- Image sizes changed for ultimate quality.
+- Deleted unnessessary files to free space.
+- Select Character Screen redone.
+- Shared Background adjusted.
+- How to Play Background redone.
+- Name Entry Screen adjusted.
+- Evaluation Judgment adjusted.
+
+Techno Fiend V.2.4
+- Theme ready to unleash on the internet.
+- Bug: A fault in an animation metric led to a crash in the player options menu when "Show Song Options" in the Machine Options was placed on "ASK". This bug is now fixed.
+- Song score in the Select Music Screen was brought back.
+
+Techno Fiend v.2.0B - v.2.3B
+- Theme in development. In this stage, I redid the theme so that the metrics were actually changed, and I was experimenting with how everything should look and feel. Of course, as one would expect, hours and hours were spent, only to create and delete all sorts of things. I had plans to release it, but I wanted everything to be almost perfect as I could get it. No files remain.
+
+Techno Fiend v.0.0B - v.1.9B
+- Shortly after discovering the skinning abilities of Stepmania, I made an attempt to create my own theme, but I was afraid to touch the metrics. In reality, it was pretty much the default theme with changed graphics. There's a reason I didn't release this version. Also, my graphical skills were not top-notch. No files remain.
+
+
+
+[Font Information]
+
+Here's a listing of the various fonts used in the theme.
+
+- 911 Porscha
+- Alexis
+- Bank Gothic Md BT
+- Beware
+- Blockhead
+- BDDoomed
+- BN Elements
+- BN Year 2000
+- BTSE + PS2 FONT
+- CloneWars
+- Demonized
+- Intrepid
+- Lcdd
+- M00_SUPER MAJOR BROS
+- M04_FATAL FURY
+- M04_FATAL FURY BLACK
+- Matrix Code NFI
+- NiseMarkIII
+- Pricedown
+- Star Jedi Hollow
+- Spy Lord
+- Technovia
+- Uranium
+- Xcelsion
+
+
+
+[Audio Information]
+None of the music in this theme is original. It is taken from the following games and albums, edited by me for looping purposes only:
+
+Album: True Pinball
+System: Sega Saturn
+Use: The majority of the music featured in the theme is from this game.
+Artist: Olof Gustafsson
+Track Listing:
+- Extreme Sports - Extreme (Select Style, Group, Difficulty, Character)
+- Extreme Sports - Skydive (Credits Scroll)
+- Extreme Sports - Super Speed (Music Scroll, Ranking)
+- Extreme Sports - Wild Bungee Jumping (Title Menu, Caution, Edit Courses, Sort)
+- Law and Justice - Speeding (How To Play, Instructions)
+- Law and Justice - Arson (Select Course)
+
+Album: Radiant Silvergun
+System: Sega Saturn
+Use: The Options and menu screens.
+Artist: Hitoshi Sakimoto
+Track Listing:
+- Feel Visible Matter (Options, Menu)
+
+Album: Virtual-On Oratorio Tangram
+System: Sega Model 3 Arcade, Sega Naomi Arcade, Sega Dreamcast
+Use: Stage music and vocals
+Artist: Kentaro Koyama
+Track Listing:
+- Intermission ~ Get Ready (Stage)
+- Ritualistic Annoyance (Evaluation Extra, Warning)
+
+Album: Virtual-On Force
+System: Sega Naomi 2 Arcade
+Use: Vocals
+Artist: Kentaro Koyama
+Track Listing:
+- Warning (Gameplay Extra)
+
+Album: Virtual-On Marz
+System: Sony Playstation 2
+Use: Title Screen, Unlock Screen
+Artist: Kentaro Koyama, Takenobu Mitsuyoshi
+Track Listing:
+- Subtitle #1 (Screen Logo)
+- Subtitle #3 (Screen Unlock)
+
+Album: Metroid Prime
+System: Nintendo Gamecube
+Use: Evaluation Screen
+Artist: Kenji Miyamoto
+Track Listing:
+- Missile Station (Screen Evaluation)
+
+Album: Azel: Panzer Dragoon RPG (aka Panzer Dragoon Saga)
+System: Sega Saturn
+Use: Name Entry Screen
+Artist: Saori Kobayashi, Mariko Nanba
+Track Listing:
+- Sestren (Name Entry Screen)
+
+Album: Daytona USA
+System: Sega Model 2 Arcade, Sega Saturn
+Use: Game Over Screen
+Artist: Takenobu Mitsuyoshi
+Track Listing:
+- G,A,M,E,O,V,E,R (Game Over Screen)
+
+
+Sound effects taken from the following:
+Cybertroopers Virtual On (Sega Model 2 Arcade/Sega Saturn/PC)
+Cybertroopers Virtual On Oratorio Tangram (Sega Model 3/Sega Naomi/Sega Dreamcast)
+The House of the Dead 2/The Typing of the Dead (Sega Naomi/Sega Dreamcast)
+Super Mario Bros (Nintendo Entertainment System)
+Super Mario Advance 4: Super Mario Bros (Nintendo Game Boy Advance)
+
+
+
+[FAQ - Frequently Asked Questions]
+
+Here is a list of some questions I have been asked, either good in quality or high in quantity. Please read this throughly if you have some thoughts on the theme, as this may answer your questions or warn you of questions to avoid. I hope you read the disclaimer first, as it lists the answers most people will ask me.
+
+
+1) If there's something that slows the frame rate on your low-end computer down, you remove it. Will you create a version for higher end computers?
+
+- No. The reason why is because I want everyone to enjoy the theme equally. I do not want some users to have a higher advantage and for others to be left in the dark. Because my computer is not a high-end machine, and as the creator of the theme, it would be unfair for me to make a theme for others to use if I can't use it. Keep in mind that if I try to make the graphics extremely hardcore where framerate is sacrificed, speed and loading time will probably also be sacrificed. Since people believe this is the fastest theme, which I'm pretty proud of that achievement, although I had not expected it, that's not something I want to lose. But if you're looking for a theme to test your machine, there are other themes out there that are designed for higher-end machines.
+
+
+2) Will you change a specific theme element so that it's more official-looking?
+
+- No. While I wanted this to be like a new arcade setup, I wanted to avoid the typical DDR feel completely. I want people to know that this is an original theme and that they don't have to be based on the DDR feel that everyone's used to. If people don't like it, they can grab another theme.
+
+
+3) Why the easter eggs? They don't really serve any real purpose in the actual gameplay.
+
+- I know, but I'm weird like that. I toss in some things for my own amusement, or things I know some people would get a rise out of. People like the Star Wars tidbits, people like the Aqua Teen Hunger Force tidbits.
+
+
+4) Why did you start this theme?
+
+- I was bored with several of the themes out there, and I was personally waiting for the ultimate DDRMAX2 theme, which was my favorite official DDR interface. I'm not a fan of the EX interface, and a lot of the other originals, while excellent, did not suit my tastes or was too much for my system to smoothly handle. I noticed shortly after I released V.2.4, everyone started making themes. I'm not sure whether I'm a trendsetter or it was mere coincidence. 
+
+
+5) How did you make this theme work so fast?
+
+- Honestly, I really don't know. If you put a lot of the transition (from one screen to another) animations at really low values (like linear,0.1), it speeds up some things. I tried to minimize the image sizes by any means possible without sacrificing too much quality, if any. I did whatever I could to make my computer handle the theme smoothly, so I deleted things that made it run choppy. Honestly, I'm surprised that people claimed for this to be the fastest theme out there. I just wanted to make a theme where I didn't have to hold the tab button so damn much, which happened with just about every arcade theme, I hate to say.
+
+
+6) I have a problem, and I'm using an older alpha (21 and older). Don't tell me to get the latest ones.
+
+- Get the latest ones.
+
+
+7) I have a suggestion for a background or animation...
+
+- I want to keep it within the boundaries of my theme and performance. Keep in mind that even though Stepmania is capable of a lot with animations, it is also severely limited. Don't suggest things that destroy the feel of the theme (i.e. anime characters, licensed music, official feel, etc.). Everything is not in one flavor and look. I know, and I did that intentionally.
+
+
+8) Would you be willing to partner up with another theme creator on this theme or a new one?
+
+- I work better alone. There's no confrontations, vision troubles, or needing to rely on someone else for something. That's just me, though. I'll help with suggestions, but that is all.
+
+
+9) Have you made song simfiles?
+
+- A lot. A lot of the sims I make are of video game music, mostly Sega since I was an old-school Sega fanboy back in the good ol' days (Saturn and Dreamcast forever!). My sims are not perfect, but they're far from crap. All of them (except for Shape Da Future, which is partially keyboard) are designed for pads, so if you don't enjoy it on a keyboard, they were designed for pads, fool. The sims are similar to the theme; they do not have that "official" feel. Of course, I rarely take on licensed tracks.
+
+Here's a listing of the simfiles I have made for DDR (In Order of Creation):
+
+- Metal Dream (from Virtua Fighter 4)
+- Oldies But Happies (from Jet Set Radio Future)
+- Shape Da Future (from Jet Set Radio Future)
+- The Expected Enemy (from Panzer Dragoon Zwei)
+- Techno Syndrome (The Immortals)
+- I'm Not a Model (Russell Simins)
+- The Tragic Prince (from Dracula X/ Castlevania: Symphony of the Night)
+- Don't Drop Me (from Sega Touring Car)
+- Groovin Daylight (from Scud Race/ Super GT)
+- Superbeast (Girl On A Motorcycle Mix) - (Rob Zombie remixed by Charlie Clouser)
+- For True Story (from Sonic Adventure 2)
+- Scatman (Scatman John - R.I.P.)
+- Theme of the Magician (from The House of the Dead)
+- Truth (from The House of the Dead)
+- Panic Puppet (from Sonic 3D Blast)
+- Into the Crimson (from Virtual On Oratorio Tangram)
+- Nights and Reala (from Nights into Dreams)
+- Pompeii (E.S. Posthumus)
+- Theme of Super Metroid (from Super Metroid: Sound in Action)
+- Geese ni Katakori (from KOF '96)
+- No One (2 Unlimited)
+- Fade to Black (from Cybertroopers Virtual-On)
+- Bounce (System of a Down)
+- Skyscraper Sequence (from Daytona USA 2)
+
+Scrapped simfiles: Simfiles I could not complete or was not satisfied with.
+
+- Rock Anthem for Saving the World (from Halo)
+- The Lord GOD (from Capcom vs. SNK 2)
+- Bullet in the Gun (Planet Perfecto)
+- Bullet in the Gun (Another)
+- Flight in the Dark (from Scud Race)
+- Breeze of the Middle Ages (from Scud Race)
+- Among Fields of Crystal (from Virtual On Oratorio Tangram Club Trax)
+- New Girl (The Suicide Machines)
+- Ancient Weapon 2 (from Panzer Dragoon Orta)
+- Forbidden Memories (from Panzer Dragoon Orta)
+- BOSS!! (from Sonic CD)
+- Funky Radio (from Jet Set Radio)
+- Nights and Reala ~ Theme of a Tragedic Revenge ~ (from Nights into Dreams)
+- Messenger from the Dark ~Dural (from Virtua Fighter 2)
+- Taking Liberty (from Headhunter Redemption)
+- When We Reach For You ~Could It Be Right~ (from SonicRemix - Remix of Sonic CD)
+
+I upload them at Bemanistyle.com, but I'm looking for someplace else to host them. I'm not fond of the ratings system nor the people who rate my files low, especially since I don't know why they rated it low. It's usually the big names that rate my files lower, after it's rated high by someone else. Now that the comments system is in effect, the statistics page is down, and the simfile database has been cleared, let's hope that annoyance goes bye bye.
+
+
+10) Are there specific meanings behind the easter eggs? Do they have subliminal messages?
+
+- Some of them. Usually the egg itself is a message.
+
+
+11) Can you e-mail me with updates and news?
+
+- What's in it for me? Your mom? Just kidding. No, because I don't want one or two people getting the word on something before everyone else. I'm all about fair game.
+
+
+12) Will you make a simfile of...?
+
+- I don't take requests unless it's something I already intend to do. I don't intend to do Bemani-related songs, either, because A) Someone else will wind up doing it, anyway, and B) It'll probably wind up being done by Konami in a new game or in an Ultramix Song Pack. I'm not a fan of a lot of anime music nor any of today's popular licensed music. There's some exceptions of course.
+
+
+13) Can you make me a theme?
+
+- Can I have your older sister? No.
+
+
+14) I'm looking for a simfile. Do you have it?
+
+- Yeah, my website is at "http://lookforityourself.lazyass.fu/. I have a little less than 500 simfiles on my computer, which shows that I obviously don't have what you're looking for. Do what everyone else does and try to look hard.
+
+
+15) How can I contact you?
+
+- You can't, and I have my reasons. I frequent the DDRManiaX.net boards, though. I doubt I'll give out any IM screenies.
+
+
+16) You took out mods! Why?! You have to put them back!
+
+- No, I don't. This is an arcade theme, and originally I only kept only the mods used in the arcade, plus literally a few of the SM mods. I took out and changed the things I did for a reason, and I'll be damned and rather pissed if I wind up putting everything back in. I took out Endless and Beginner because I never used them and with the original Select Difficulty Screen, they would just clutter things up. I found a way around it by redoing the entire screen. Putting Select Game on the title menu made it look cluttered, so now I put it in the SM options. Mods are different. I took them out because I didn't use them, and more importantly I didn't want the options screen to be a complete mess. It's not like everyone uses every single thing available, anyway, unless you're bored. Be glad that I left some of the stuff in there. Also, do not expect a Techno Fiend Deluxe theme with all the mods.
+
+
+17) Have you made any other themes or planning to make more?
+
+- Depending on when Stepmania 4.0 is released, I will eventually finish off Techno Fiend with a final version and then work on other things. I have two themes in my head that I may create, depending on time and my schedule, since I am a college student. I might make a seperate version of TF strictly for testing purposes for helping other theme makers.
+
+
+18) There's something in your theme I hate. It pisses me off. Fix it.
+
+- Ever heard of asking nicely, jackass?
+
+
+19) There's a lot of things I would change in this theme. It's not my favorite. I changed a lot of metrics and some of the sounds to suit my tastes and needs.
+
+- Mail it with a self-addressed stamped envelope and mail it to the President of Igivadam. He might be the only one who cares, because I don't.
+
+
+20) Can you tell me how to make a theme?
+
+- Just experiment with the metrics and try to become familiar with what specific commands do. It's really not that difficult, just time-consuming. If you put the effort into it, you can make a theme. But to make a good theme is like making a good website, you need to have some sense of design and color, which is something I might not completely have.
+
+
+21) I'm making a theme and I kinda need some help. Can you tell me how to do some of the specific animations you did?
+
+- That depends on your reasoning. If it's for competitive reasons, no. If it's for non-competitive reasons, probably. Of course, you can dig through the folders and study the metrics. You'd be surprised how basic the animations really are. Just don't copy the metrics, barely modify them, and consider them yours. To get things to look and animate the way they do took hours.
+
+
+22) You should compete against the other theme makers.
+
+- No, I shouldn't. I'm not a competitive person. I also heavily respect the other theme makers. I'm not out to destroy anyone (at least in the Bemani Simfile Community). I was only competitive in my high school, only because I was the only one in my art class with a sense of creativity, which is why I designed a lot of stuff before I graduated. However, with the original themes out there, they are also creative, and I think it's useless to create a war with creativity. Of course, I released this theme to show that there's more than just official themes, and there can be more originals out there.
+
+
+23) You went from 2.5 to 2.7. What happened to 2.6?
+
+- It got sucked into the tiolet when it went to make brownies. There were too many changes. The amount of changes made to this equal that of two seperate versions, if that means anything to you. I skipped a number. Wee. That will occassionally happen with a new Alpha release, that I'll skip a number. Besides, I don't want people expecting V.2.8 to have a similar number of changes. It's got a lot, but not as much as 2.7 did, at least that's my opinion.
+
+
+24) Some of your easter eggs show that you watch cartoons, even those aimed for kids. What's up with that?
+
+- I love animation of all kinds. I could care who makes it, who it's aimed at, where it's made, and who shows it. If I like it, I like it. I'm 20, I'll watch whatever the hell I feel like. 
+
+
+25) Ever thought of making an official theme? You say you're (still) waiting until the ultimate near-perfect MAX2 theme comes out. You could do it.
+
+- Yeah, but I don't have anything to look from. All the machines here are Extreme, and I don't have a PS2. So the graphics are one thing, getting them is another, and the animations are probably the most important part. Besides, with original themes you can't complain about accuracy, while official themes are infested with those. I'm better at creating things, and I've never been good at mimicking things.
+
+
+26) I'm going to use the Techno Fiend metrics and mod them to create my own theme and release it.
+
+- No you won't. It took me hours to edit the metrics to get the results I wanted. I may not own the title of an ".ini" file, but it's still my work regardless. You can study the metrics and get an idea, but I won't allow you to mod my metrics to make your own theme. That's just not right. Besides, I'll pop up and make people bitch at you for copying. A destroyed is you!
+
+
+27) I love *insert theme and/or simfile here*! Keep up the great work! Much love. Keep it up.
+
+- Thanks. I try.
+
+
+28) I hate *insert theme and/or simfile here*!
+
+- Thank you for being constructive and telling me of your reasoning *cough*. You have made the world a better place! Please proceed to the closest cliff and bungie jump off the cliff without the cord. Happy landing, duckass.
+
+
+29) Your theme is better/worse than *insert another theme here*!
+
+- What makes you think I care? Again, I didn't make the theme to provoke competition.
+
+
+30) I found an easter egg!
+
+- There's an Easter Egg Listing right after the FAQ section. Besides, I know where they all are. I made the theme!
+
+
+31) Are you going to do other theming-related things, like noteskins, characters, announcers, etc?
+
+- I made a noteskin for the theme called "Apocalypse," and I might make more. I may make characters later on, but I don't use an announcer for this skin, so don't expect that in the future.
+
+
+32) Why do you make the simfiles of the songs that you do?
+
+- I think of DDR steps for it. That's about it. My music knowledge is more heavily based on movie and video game soundtracks, since my opinion of the music on the radio has been "teh suck," for the last ten years.
+
+
+33) How do you arrange your folders to display the songs? You have green twice in the scheme.
+
+- Good question. Here's how I arrange my folders to get the results I want:
+-- DDR 1st Mix
+-- DDR 2nd Mix
+-- DDR 3rd Mix
+-- DDR 3rd Mix Plus
+-- DDR 4th Mix
+-- DDR 4th Mix Plus
+-- DDR 5th Mix
+-- DDR 6th Mix -Max-
+-- DDR 7th Mix -Max2-
+-- DDR Extreme
+-- DDR Party Collection
+-- DDR Ultramix
+-- DDR V2 Club
+
+And after that, it repeats from there.
+
+
+34) What's your advice for simfiles? How do I catch your attention with my simfiles?
+
+- Try as hard as you can to make it on sync, try to make the BPM reasonable, include decent graphics, and GET THE SONG INFORMATION CORRECT. I can understand it's hard with songs that don't have soundtrack listings, but when a soundtrack is released, please do your damn homework.
+
+Bad Example:
+Song Title: Theme from Sonic Adventure
+Song Author: NeonPope (The song author is the one who made the SONG, not the simfile)
+Sim Author: *empty* (Your name here)
+BPM: 500 (Is it really that high? No.)
+On-Sync: No, and it's really noticeable
+Graphics: No, or not of proper dimensions.
+Label: DDR Edit
+
+Good Example:
+Song Title: Open Your Heart (Theme from Sonic Adventure)
+Song Author: Crush 40 [This is the name of Jun Senoue's new band that made the song, so this is correct]
+Sim Author: Starfire11 [You made the sim, so give yourself credit in the right place]
+BPM: 136 [Note: I don't know the actual BPM of the song as I've made no attempt to find out]
+On-Sync: Yes, or close
+Graphics: Yes
+Label: Other [The song is not in DDR or any Bemani-related games, and it's not anime, so it's other]
+
+This will not only catch my attention, but I'm sure it will be of many others. I have other pet peeves with simfiles; like if they're single difficulty, people label them as Heavy and not Challenge (like official songs are). I really hate it when people get song information wrong as well. If a CD's out, do your homework to get the correct song information. You'll look like you know what you're doing instead of looking like a complete n00b. I understand it's difficult in some situations, with some songs that have track names that no one knows about, but sometimes when it's as popular as Sonic Adventure's "Open Your Heart" which everyone knows the name, your fingers will be on your nuts, not the pulse.
+
+Also, try to make the graphic your own. Anybody can take a screenshot or an image rip and adjust it to the proper dimensions, it takes no effort. Athough I sometimes use images from other sources, I modify it to make it look like it's exclusive to the simfile, but I don't take credit for them, and I try not to use images that belong to other people. If you don't have graphics experience, why are you making a sim? Try PhotoShop or PhotoImpact and work with those. Don't release something you spent an hour on; put some effort into it. Also, with the steps, try to make the steps appropriate with the song. If the song sounds like it has potential for great difficulty, try to make it like that. If the song has that feel that it shouldn't be hard to dance to, don't add steps that seem out of place to make it more difficult. Choose your songs wisely. You might wind up ditching some of your sims because they won't turn out as you originally planned.
+
+You should decide the flavor of your sims. Mine aren't popular becuase they're easy and the songs are usually recognized by hardcore gamers with some exceptions. Well, it says it's designed for a PAD, genius. I make DDR simfiles to be played like DDR. They don't feel official, but are more linked to the music notes. I don't plan to make a simfile that's impossible or extremely ridiculously hard, with the exception of Metal Dream. I don't play keyboard files, but I won't say they're crap unless they're just absolutely horrible.
+
+
+35) Will you put SMLAN support in your theme?
+
+Yes, and it's in V.2.8. Network Options is in the Options menu. I've also modified the NetSelectMusic screen.
+
+
+36) You added a background for the Unlock screen. I can't see it. How can I see it?
+
+This area's still in testing, so be careful. Go into the Data folder in the main Stepmania folder. Find "Unlocks.dat" and open it with notepad. There are instructions inside on how to code it out, and you must use songs that you have downloaded, though I recommend official sims. Next, turn on all of your Unlock options in the options menu in the program. See if that works. This area doesn't seem to be finalized, however, as said in the unlocks.dat file.
+
+
+
+[Easter Egg Listing]
+
+There's been a lot of stuff I've hidden in the theme, some well, some not. Due to several requests, I decided to make a list. The Eggs in my theme are merely little things that might catch your attention depending on what video games or TV you have seen. They do not affect your gameplay in any way, although the Toasty can be a distraction.
+
+
+1) The Screen Company Screen
+- This is a spoof of the Star Wars opening.
+
+
+2) The Caution Screen
+- Along the text, the line, "Do Not Whiz On The Electric Fence," is shown. This is a reference to an episode of Ren & Stimpy. This will not be shown if Caution is turned off.
+
+
+3) The Caution Screen
+- Right below the previous egg, the line, "No Sex in the Champagne Room," is shown. This is a reference to a Chris Rock song of the same name. This will not be shown if Caution is turned off.
+
+
+4) The Select Style Screen
+- The actual background of the screen has some text and numbers. One of them is the phrase, "Quickly Carl, the ray is upon you! Where do you work?" This is a reference to the pilot of Aqua Teen Hunger Force, "Rabbot." Because of the objects on the screen, this is hard to see.
+
+
+5) The Select Style Screen
+- The scrolling text on the screen do consist of actual and readable text, but it is upside down. The phrases are as follows:
+-- This is going to get ugly
+-- Say no to posers and frat boys
+-- My advice is to be observant of others
+-- We can't define art for others
+-- Don't let your insecurities destroy you
+-- Don't be an asscake
+-- I wonder what the hell is going on
+-- Stepmania Techno Fiend Version 2.8
+-- Cartoons Kick Ass
+-- Damn that girl is pretty
+-- Torture and Destroy
+-- The Meaning of Life is Cheese
+
+
+6) The Select Style Screen
+-- The scrolling text phrase, "Cartoons Kick Ass," is taken from a line from South Park, quoted by Cartman.
+
+
+7) The Select Style Screen
+-- The scrolling text phrase, "Torture and Destroy," is from a sample clip featured from the Beatmania IIDX song, "Outer Limits" by L.E.D.-G. I am not sure where the original sample recording is from, or if it was created for the sole purpose of being in that song.
+
+
+8) The Select Style Screen
+-- The scrolling text phrase, "The Meaning of Life is Cheese," is a reference to Kim Possible: A Sitch in Time. Yeah, I'm 20 and I watch Kim Possible. If you've got a problem with that, up yours, because the show's cool, at least Season 1 was, anyway. Season 1 rules all.
+
+
+9) The Ranking Screen
+-- The name for the empty name is "MCPP." This is a reference to the character "MC Pee Pants," in Aqua Teen Hunger Force, who keeps getting sent to hell and comes back as another life form.
+
+
+10) The Stage Screen
+-- The sound and look is based off of Sega and Hitmaker's, "Virtual On Oratorio Tangram," for the arcade and Dreamcast. It's similar to the screen where you are shown the next enemy and stage. This excludes the Endless, Nonstop, and Oni stage screen, where I was unable to change the music.
+
+
+11) The Gameplay Screen
+-- When you access the extra and special stage, the screen flashes black and red. This is based on VOOT's "Final Mission" screen, but the sound clip is taken from the third game in the series, "Virtual On Force." I have never played Force, but both sounds include the repetitive "warning" voiceclip.
+
+
+12) The Gameplay Screen
+-- When in Oni Mode or when you use the battery life, the sound when you gain a life is the sound when you get a mushroom in Super Mario Bros. The sound clip is taken from the Game Boy Advance version of Super Mario Advance 4: Mario Bros. 3.
+
+
+13) The Gameplay Screen
+-- Similar to the previous Egg, the sound when you lose a life is also from Super Mario Bros, but the sound of when you are hit or when you go down a pipe.
+
+
+14) The Game Over Screen
+-- The entire sequence is based off of the Game Over sequence of Sega's "Daytona USA." This will not be shown if fail mode is set to "Off," or in Event Mode.
+
+
+15) The Name Entry Screen
+-- The sequence is based off the final location in Azel: Panzer Dragoon RPG (known in the states as "Panzer Dragoon Saga."): Sestren. Also, in Azel, it's also the name entry screen in the beginning of the game. This will not be shown in Event Mode.
+
+
+16) Toasty (250 consecutive Brilliants or Excellents)
+-- SNK's Geese Howard uses his signature move, the Raging Storm. Geese is one of the most popular SNK villians. He originated from the first Fatal Fury, and has appeared in several of their fighting games. This will not show if Easter Eggs is turned off.
+
+
+17) Toasty (250 consecutive Brilliants or Excellents)
+-- The sound clip heard in this sequence is, "I have come to chew bubblegum and kick ass, and I'm all out of ass." This is taken from an episode of Mystery Science Theater 3000. The line itself is a spoof of the line, "I have come here to chew bubblegum and kick ass, and I'm all out of bubblegum," from the movie, "They Live." This will not show if Easter Eggs is turned off.
+
+
+18) The Gameplay Screen/The Danger Screen/Song Edit Screen
+-- If a song does not have a background, a different background appears. It is a spoof of the FBI screen that appears in most American arcade machines, "Winners Don't Do Drugs." Here, it was replaced by "Winners Say No To Thugs," a spoof of the similar line, "Winners Say No To Drugs." This also appears in the Danger screen in Nonstop or Endless Mode if Danger is set to on, as well as the Song Edit mode if the song doesn't have a background.
+
+
+19) The Select Music/Course Screen
+-- The Banner shown for songs without them is based on the Star Wars logo look, similar to the Company Screen.
+
+
+20) The Taking a Break Screen
+-- While I have not seen the default Taking a Break screen, the one that appears in Techno Fiend is a mockup of the original Super Mario Bros. title screen. It sounds like this takes place in Endless Mode.
+
+
+21) The Select Difficulty Screen
+-- If you wait a while at the screen, a light will appear on the left side of the screen. This is the "Shake Signal" from Aqua Teen Hunger Force.
+
+
+22) The Select Difficulty Screen
+-- If you wait even longer at the screen, another light will appear, but on the right side of the screen. This is the infamous Batman light.
+
+
+23) The Gameplay Screen
+-- In Oni Mode, if two players are playing and one is eliminated, the floating banner that appears says "Terminated" in red. This is a reference to the Terminator movies. This will not be seen until the next stage if fail mode is set to End of Song and will not be seen at all if it is set to Off.
+
+
+24) The Unlock Screen
+-- On the bottom of the screen, there's a small message that says, "Unlock the secrets to become immortal!*" on the top of the screen. If you wait 10 seconds or so, the message,"*Offer expires 9/10/1241. Offer void in Utah," appears. This will be easy to miss as this screen does not show unless the unlock.dat file in the Stepmania Data folder is altered so that some songs are locked under specific conditions.
+
+
+
+[End of Readme. Come again!]
